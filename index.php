@@ -56,7 +56,7 @@
 
     <div class=""><p id="v"></p></div>
 
-    <button type="submit" onclick="turn()" class="btn btn-primary">Submit</button>
+    <button type="button" onclick="turn()" class="btn btn-primary">Submit</button>
   </form>
 
 </body>
